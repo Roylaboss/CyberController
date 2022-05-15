@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.elexlab.cybercontroller"
+        applicationId "com.roy.cybercontroller"
         minSdkVersion 28
         targetSdkVersion 30
         versionCode 1
