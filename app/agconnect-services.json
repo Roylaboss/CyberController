@@ -25,32 +25,32 @@
 		"client_id":"892069370891617536",
 		"client_secret":"DBBE41EB4CC5A6436E3E3A3B08F7D3FE36D429BE99BF523092C85E2B761D7F11",
 		"project_id":"99536292102277546",
-		"app_id":"106229225",
+		"app_id":"106229301",
 		"api_key":"DAEDAJdHLt1uXZZTq76Mm0lFK6lER8jQJQ30B/Ixe/ldOYxCXuTd/KRyEQCpDRnH8mptE+Bvv1R+IFXeGRvkq3FLK2oQDgVtVVC9eQ==",
-		"package_name":"CyberController.XXX"
+		"package_name":"com.roy.cybercontroller"
 	},
 	"oauth_client":{
-		"client_id":"106229225",
+		"client_id":"106229301",
 		"client_type":1
 	},
 	"app_info":{
-		"app_id":"106229225",
-		"package_name":"CyberController.XXX"
+		"app_id":"106229301",
+		"package_name":"com.roy.cybercontroller"
 	},
 	"configuration_version":"3.0",
 	"appInfos":[
 		{
-			"package_name":"CyberController.XXX",
+			"package_name":"com.roy.cybercontroller",
 			"client":{
-				"app_id":"106229225"
+				"app_id":"106229301"
 			},
 			"app_info":{
-				"package_name":"CyberController.XXX",
-				"app_id":"106229225"
+				"package_name":"com.roy.cybercontroller",
+				"app_id":"106229301"
 			},
 			"oauth_client":{
 				"client_type":1,
-				"client_id":"106229225"
+				"client_id":"106229301"
 			}
 		}
 	]
